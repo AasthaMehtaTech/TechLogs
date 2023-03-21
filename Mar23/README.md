@@ -7,3 +7,6 @@
   - [Consolidate into 1 alert rule file](https://stackoverflow.com/questions/72599877/prometheus-k8s-extraconfigmapmounts-fails-to-load-multiple-files-to-the-same-dir)
   - [mount the directory directly(multiple resp folders) for each configmap](https://stackoverflow.com/questions/68905578/configmap-with-multiple-destination-folders)
   - [A container using a ConfigMap as a subPath volume mount will not receive ConfigMap updates](https://stackoverflow.com/questions/48561338/how-to-correctly-mount-configmap-with-subpath-in-kubernetes-not-update-configs)
+- But, Question comes how would we deploy the configmap along with service deployment, for that we already had a helm chart common to all micro-services deployed with istio, there we now need to add provision to create configmap conditionally when the passed/ overriden values.yml of that srvice contains it.
+- Radically thinking of the primary problem when the architecture scales & contains 100s of micro-services, that much configmaps mounted onto prometheus pod isn't possible due to its limitations & complicated nature of updates; 
+- hence we needed to think about an architecture for Prometheus Alert Management which provides out of the box capabilities to manage such large number of ever changing rules-kind-of-resources; for which prometheus operator was a good solution
