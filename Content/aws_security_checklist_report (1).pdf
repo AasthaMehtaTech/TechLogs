@@ -1,0 +1,8445 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5104
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 779.5277952755905062 Td
+(AWS Security Checklist Report) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon Aurora) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 152.7267202859697477 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+192.7267202859697761 728.5041732283464171 362.5532797140301682 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+197.7267202859697477 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 152.7267202859697477 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Encrypt data at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 707.0041732283464171 362.5532797140301682 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 693.5041732283464171 Td
+(Encrypting your Aurora database at rest helps protect your data from) Tj
+T* (unauthorized access or disclosure in the event of theft or loss of your storage) Tj
+T* (devices.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Encrypt data in transit) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 662.5041732283464171 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 649.0041732283464171 Td
+(Encrypting your Aurora database connections helps protect your data from) Tj
+T* (unauthorized interception or disclosure during transmission.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 152.7267202859697477 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Use secure AWS Identity and) Tj
+T* (Access Management \(IAM\)) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 629.5041732283464171 362.5532797140301682 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 616.0041732283464171 Td
+(Using secure IAM policies helps ensure that access to your Aurora database is) Tj
+T* (limited to authorized users and applications.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 585.0041732283465308 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 571.5041732283464171 Td
+(Implement backup and disaster) Tj
+T* (recovery plans) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 585.0041732283465308 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 571.5041732283464171 Td
+(Implementing backup and disaster recovery plans helps ensure that your Aurora) Tj
+T* (database is available and functional during a security breach or other disaster.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 552.0041732283464171 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 538.5041732283464171 Td
+(Monitor Aurora database activity) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 552.0041732283464171 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 538.5041732283464171 Td
+(Monitoring Aurora database activity helps you identify potential security issues) Tj
+T* (or anomalies in your Aurora environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 519.0041732283464171 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 505.5041732283464739 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 519.0041732283464171 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 505.5041732283464739 Td
+(Regularly reviewing and auditing security controls helps ensure that your Aurora) Tj
+T* (resources are secure and compliant with your security policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 486.0041732283464739 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 472.5041732283465308 Td
+(Implement least privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 486.0041732283464739 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 472.5041732283465308 Td
+(Implementing least privilege access helps ensure that users and applications) Tj
+T* (have only the minimum privileges necessary to perform their intended actions.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3817
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon EventBridge) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 155.067123701986219 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+195.067123701986219 728.5041732283464171 360.2128762980137253 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+200.0671237019861906 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Encrypt data in transit) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 707.0041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 693.5041732283464171 Td
+(Encrypting your EventBridge data in transit helps protect your data from) Tj
+T* (unauthorized interception or disclosure during transmission.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 155.067123701986219 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use secure AWS Identity and) Tj
+T* (Access Management \(IAM\)) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 674.0041732283464171 360.2128762980137253 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 660.5041732283464171 Td
+(Using secure IAM policies helps ensure that access to your EventBridge) Tj
+T* (resources is limited to authorized users and applications.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Implement monitoring and) Tj
+T* (logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 629.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 616.0041732283464171 Td
+(Implementing monitoring and logging helps you identify potential security issues) Tj
+T* (or anomalies in your EventBridge environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 596.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 583.0041732283464171 Td
+(Regularly reviewing and auditing security controls helps ensure that your) Tj
+T* (EventBridge resources are secure and compliant with your security policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Implement least privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 563.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 550.0041732283464171 Td
+(Implementing least privilege access helps ensure that users and applications) Tj
+T* (have only the minimum privileges necessary to perform their intended actions.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 3825
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon Connect) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 155.067123701986219 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+195.067123701986219 728.5041732283464171 360.2128762980137253 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+200.0671237019861906 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable encryption for Amazon) Tj
+T* (Connect data) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 707.0041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 693.5041732283464171 Td
+(Enabling encryption for Amazon Connect data at rest helps protect sensitive) Tj
+T* (information from unauthorized access or disclosure.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 155.067123701986219 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use secure AWS Identity and) Tj
+T* (Access Management \(IAM\)) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 674.0041732283464171 360.2128762980137253 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 660.5041732283464171 Td
+(Using secure IAM policies helps ensure that access to Amazon Connect is) Tj
+T* (limited to authorized users and applications.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Implement least privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 629.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 616.0041732283464171 Td
+(Implementing least privilege access helps ensure that users and applications) Tj
+T* (have only the minimum privileges necessary to perform their intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 155.067123701986219 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 596.5041732283464171 360.2128762980137253 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 583.0041732283464171 Td
+(Regularly reviewing and auditing security controls helps ensure that your) Tj
+T* (Amazon Connect resources are secure and compliant with your security) Tj
+T* (policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 552.0041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 538.5041732283464171 Td
+(Monitor Amazon Connect activity) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 552.0041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 538.5041732283464171 Td
+(Monitoring Amazon Connect activity helps you identify potential security issues) Tj
+T* (or anomalies in your Amazon Connect environment.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 5964
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon MQ) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 155.067123701986219 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+195.067123701986219 728.5041732283464171 360.2128762980137253 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+200.0671237019861906 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Encrypt data in transit) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 707.0041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 693.5041732283464171 Td
+(Encrypting your MQ data in transit helps protect your data from unauthorized) Tj
+T* (interception or disclosure during transmission.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 155.067123701986219 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use secure AWS Identity and) Tj
+T* (Access Management \(IAM\)) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 674.0041732283464171 360.2128762980137253 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 660.5041732283464171 Td
+(Using secure IAM policies helps ensure that access to your MQ resources is) Tj
+T* (limited to authorized users and applications.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Implement monitoring and) Tj
+T* (logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 629.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 616.0041732283464171 Td
+(Implementing monitoring and logging helps you identify potential security issues) Tj
+T* (or anomalies in your MQ environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 596.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 583.0041732283464171 Td
+(Regularly reviewing and auditing security controls helps ensure that your MQ) Tj
+T* (resources are secure and compliant with your security policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Implement least privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 563.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 550.0041732283464171 Td
+(Implementing least privilege access helps ensure that users and applications) Tj
+T* (have only the minimum privileges necessary to perform their intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 530.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 517.0041732283464171 Td
+(Secure your MQ VPC) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 530.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 517.0041732283464171 Td
+(Securing your MQ Virtual Private Cloud \(VPC\) helps protect your MQ resources) Tj
+T* (from unauthorized access and network-based attacks.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 497.5041732283463602 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 484.0041732283464171 Td
+(Implement backup and recovery) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 497.5041732283463602 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 484.0041732283464171 Td
+(Implementing backup and recovery helps ensure that you can recover your MQ) Tj
+T* (resources and data in the event of a disaster or data loss.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 464.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 451.0041732283464739 Td
+(Implement message-level) Tj
+T* (encryption) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 464.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 451.0041732283464739 Td
+(Implementing message-level encryption helps protect your MQ messages from) Tj
+T* (unauthorized access or disclosure.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 431.5041732283464739 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 418.0041732283464739 Td
+(Implement message filtering and) Tj
+T* (validation) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 431.5041732283464739 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 418.0041732283464739 Td
+(Implementing message filtering and validation helps protect your MQ resources) Tj
+T* (from malicious or invalid messages.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 6130
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon Redshift) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 153.4428172386274127 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+193.4428172386274127 728.5041732283464171 361.8371827613725031 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+198.4428172386274127 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 153.4428172386274127 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Encrypt data at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 707.0041732283464171 361.8371827613725031 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 693.5041732283464171 Td
+(Encrypting your Redshift data at rest helps protect your data from unauthorized) Tj
+T* (access or disclosure in the event of theft or loss of your storage devices.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 153.4428172386274127 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Encrypt data in transit) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 674.0041732283464171 361.8371827613725031 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 660.5041732283464171 Td
+(Encrypting your Redshift cluster connections helps protect your data from) Tj
+T* (unauthorized interception or disclosure during transmission.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 153.4428172386274127 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Use secure AWS Identity and) Tj
+T* (Access Management \(IAM\)) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 641.0041732283464171 361.8371827613725031 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 627.5041732283464171 Td
+(Using secure IAM policies helps ensure that access to your Redshift cluster is) Tj
+T* (limited to authorized users and applications.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 153.4428172386274127 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Implement backup and disaster) Tj
+T* (recovery plans) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 596.5041732283464171 361.8371827613725031 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 583.0041732283464171 Td
+(Implementing backup and disaster recovery plans helps ensure that your) Tj
+T* (Redshift cluster is available and functional during a security breach or other) Tj
+T* (disaster.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 552.0041732283464171 153.4428172386274127 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 538.5041732283464171 Td
+(Monitor Redshift cluster activity) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 552.0041732283464171 361.8371827613725031 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 538.5041732283464171 Td
+(Monitoring Redshift cluster activity helps you identify potential security issues or) Tj
+T* (anomalies in your Redshift environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 519.0041732283464171 153.4428172386274127 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 505.5041732283464739 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 519.0041732283464171 361.8371827613725031 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 505.5041732283464739 Td
+(Regularly reviewing and auditing security controls helps ensure that your) Tj
+T* (Redshift resources are secure and compliant with your security policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 486.0041732283464739 153.4428172386274127 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 472.5041732283465308 Td
+(Implement least privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 486.0041732283464739 361.8371827613725031 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 472.5041732283465308 Td
+(Implementing least privilege access helps ensure that users and applications) Tj
+T* (have only the minimum privileges necessary to perform their intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 453.0041732283465308 153.4428172386274127 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 439.5041732283465308 Td
+(Secure your Redshift VPC) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 453.0041732283465308 361.8371827613725031 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 439.5041732283465308 Td
+(Securing your Redshift Virtual Private Cloud \(VPC\) helps protect your Redshift) Tj
+T* (cluster from unauthorized access and network-based attacks.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 420.0041732283465308 153.4428172386274127 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 406.5041732283465876 Td
+(Implement network security best) Tj
+T* (practices) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.4428172386274127 420.0041732283465308 361.8371827613725031 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.4428172386274127 406.5041732283465876 Td
+(Implementing network security best practices helps ensure that your Redshift) Tj
+T* (cluster is protected from network-based attacks and threats.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 6003
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon SQS) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 155.067123701986219 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+195.067123701986219 728.5041732283464171 360.2128762980137253 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+200.0671237019861906 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Encrypt data in transit) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 707.0041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 693.5041732283464171 Td
+(Encrypting your SQS data in transit helps protect your data from unauthorized) Tj
+T* (interception or disclosure during transmission.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 155.067123701986219 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use secure AWS Identity and) Tj
+T* (Access Management \(IAM\)) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 674.0041732283464171 360.2128762980137253 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 660.5041732283464171 Td
+(Using secure IAM policies helps ensure that access to your SQS resources is) Tj
+T* (limited to authorized users and applications.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Implement monitoring and) Tj
+T* (logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 629.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 616.0041732283464171 Td
+(Implementing monitoring and logging helps you identify potential security issues) Tj
+T* (or anomalies in your SQS environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 596.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 583.0041732283464171 Td
+(Regularly reviewing and auditing security controls helps ensure that your SQS) Tj
+T* (resources are secure and compliant with your security policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Implement least privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 563.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 550.0041732283464171 Td
+(Implementing least privilege access helps ensure that users and applications) Tj
+T* (have only the minimum privileges necessary to perform their intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 530.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 517.0041732283464171 Td
+(Secure your SQS VPC) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 530.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 517.0041732283464171 Td
+(Securing your SQS Virtual Private Cloud \(VPC\) helps protect your SQS) Tj
+T* (resources from unauthorized access and network-based attacks.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 497.5041732283463602 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 484.0041732283464171 Td
+(Implement retention policies for) Tj
+T* (your SQS messages) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 497.5041732283463602 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 484.0041732283464171 Td
+(Implementing retention policies helps ensure that your SQS messages are) Tj
+T* (stored securely and in compliance with your security policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 464.5041732283464171 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 451.0041732283464739 Td
+(Implement message-level) Tj
+T* (encryption) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 464.5041732283464171 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 451.0041732283464739 Td
+(Implementing message-level encryption helps protect your SQS messages) Tj
+T* (from unauthorized access or disclosure.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 431.5041732283464739 155.067123701986219 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 418.0041732283464739 Td
+(Implement message filtering and) Tj
+T* (validation) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+195.067123701986219 431.5041732283464739 360.2128762980137253 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+200.0671237019861906 418.0041732283464739 Td
+(Implementing message filtering and validation helps protect your SQS) Tj
+T* (resources from malicious or invalid messages.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 5417
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - API Gateway) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 133.2734443021767845 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+173.2734443021767845 728.5041732283464171 382.0065556978231029 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+178.2734443021767561 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 133.2734443021767845 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use HTTPS) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2734443021767845 707.0041732283464171 382.0065556978231029 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2734443021767561 693.5041732283464171 Td
+(Use HTTPS instead of HTTP for all API requests to encrypt data in transit and) Tj
+T* (prevent man-in-the-middle attacks.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 133.2734443021767845 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Enable API Gateway) Tj
+T* (Logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2734443021767845 674.0041732283464171 382.0065556978231029 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2734443021767561 660.5041732283464171 Td
+(Enable logging to Amazon CloudWatch Logs to help with security analysis, change) Tj
+T* (tracking, and compliance auditing.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 133.2734443021767845 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Restrict Access with API) Tj
+T* (Gateway Resource Policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2734443021767845 641.0041732283464171 382.0065556978231029 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2734443021767561 627.5041732283464171 Td
+(Define resource policies to restrict access to your APIs, based on IP address,) Tj
+T* (Amazon VPC endpoint, or other attributes.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 608.0041732283465308 133.2734443021767845 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 594.5041732283464171 Td
+(Use AWS WAF with API) Tj
+T* (Gateway) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2734443021767845 608.0041732283465308 382.0065556978231029 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2734443021767561 594.5041732283464171 Td
+(Use AWS Web Application Firewall \(WAF\) with API Gateway to protect against) Tj
+T* (common web exploits such as SQL injection and cross-site scripting \(XSS\).) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 575.0041732283464171 133.2734443021767845 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 561.5041732283464171 Td
+(Implement Authorization) Tj
+T* (with API Gateway) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2734443021767845 575.0041732283464171 382.0065556978231029 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2734443021767561 561.5041732283464171 Td
+(Implement authorization with API Gateway to control who can access your APIs and) Tj
+T* (what actions they can perform.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 542.0041732283464171 133.2734443021767845 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 528.5041732283464171 Td
+(Protect Against) Tj
+T* (Denial-of-Service \(DoS\)) Tj
+T* (Attacks) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2734443021767845 542.0041732283464171 382.0065556978231029 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2734443021767561 528.5041732283464171 Td
+(Configure rate limiting, throttling, and caching to protect against DoS attacks and to) Tj
+T* (ensure high availability and performance.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 497.5041732283464739 133.2734443021767845 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 484.0041732283464739 Td
+(Use API Gateway Access) Tj
+T* (Logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2734443021767845 497.5041732283464739 382.0065556978231029 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2734443021767561 484.0041732283464739 Td
+(Use access logging to track and monitor requests to your APIs, and to help with) Tj
+T* (troubleshooting and compliance auditing.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 464.5041732283464739 133.2734443021767845 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 451.0041732283465308 Td
+(Secure API Gateway) Tj
+T* (Credentials) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2734443021767845 464.5041732283464739 382.0065556978231029 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2734443021767561 451.0041732283465308 Td
+(Use AWS Secrets Manager or AWS Key Management Service \(KMS\) to securely) Tj
+T* (manage API Gateway credentials such as API keys and client certificates.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 5381
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Athena) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 170.0158472264322711 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+210.0158472264322995 728.5041732283464171 345.2641527735676732 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+215.0158472264322711 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 170.0158472264322711 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Limit access to Athena) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 707.0041732283464171 345.2641527735676732 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 693.5041732283464171 Td
+(Ensure that access to Athena is limited to only the necessary users and) Tj
+T* (roles.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 170.0158472264322711 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use IAM policies to control access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 674.0041732283464171 345.2641527735676732 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 660.5041732283464171 Td
+(Use IAM policies to control access to Athena resources.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 652.5041732283464171 170.0158472264322711 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 639.0041732283464171 Td
+(Use encryption) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 652.5041732283464171 345.2641527735676732 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 639.0041732283464171 Td
+(Use encryption to protect sensitive data at rest and in transit.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 631.0041732283464171 170.0158472264322711 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 617.5041732283464171 Td
+(Enable CloudTrail logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 631.0041732283464171 345.2641527735676732 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 617.5041732283464171 Td
+(Enable CloudTrail logging for Athena to track usage and changes to the) Tj
+T* (service.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 598.0041732283464171 170.0158472264322711 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 584.5041732283464171 Td
+(Enable VPC access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 598.0041732283464171 345.2641527735676732 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 584.5041732283464171 Td
+(Enable VPC access for Athena to limit access to resources within your VPC.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 576.5041732283464171 170.0158472264322711 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 563.0041732283464171 Td
+(Enable query result encryption) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 576.5041732283464171 345.2641527735676732 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 563.0041732283464171 Td
+(Enable query result encryption to protect sensitive data in query results.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 555.0041732283464171 170.0158472264322711 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 541.5041732283464171 Td
+(Use AWS Glue to manage Athena) Tj
+T* (data catalog) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 555.0041732283464171 345.2641527735676732 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 541.5041732283464171 Td
+(Use AWS Glue to manage the Athena data catalog and ensure that it is) Tj
+T* (up-to-date and accurate.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 522.0041732283464171 170.0158472264322711 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 508.5041732283464171 Td
+(Enable Amazon S3 server-side) Tj
+T* (encryption) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 522.0041732283464171 345.2641527735676732 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 508.5041732283464171 Td
+(Enable Amazon S3 server-side encryption to protect data stored in S3 that) Tj
+T* (is accessed by Athena.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 489.0041732283464171 170.0158472264322711 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 475.5041732283464171 Td
+(Use parameterized queries) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+210.0158472264322995 489.0041732283464171 345.2641527735676732 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+215.0158472264322711 475.5041732283464171 Td
+(Use parameterized queries to protect against SQL injection attacks.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3875
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - AWS Auto Scaling) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 138.333327307240495 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+178.3333273072404666 728.5041732283464171 376.9466726927594209 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+183.333327307240495 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 138.333327307240495 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use IAM roles to control) Tj
+T* (access to AWS Auto Scaling) Tj
+T* (resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+178.3333273072404666 707.0041732283464171 376.9466726927594209 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+183.333327307240495 693.5041732283464171 Td
+(Using IAM roles enables you to control which users and applications have access) Tj
+T* (to AWS Auto Scaling resources and what actions they can perform.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 138.333327307240495 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Encrypt data in transit and at) Tj
+T* (rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+178.3333273072404666 662.5041732283464171 376.9466726927594209 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+183.333327307240495 649.0041732283464171 Td
+(Encrypting data in transit and at rest helps protect sensitive information from) Tj
+T* (interception and unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 138.333327307240495 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Limit network access to AWS) Tj
+T* (Auto Scaling resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+178.3333273072404666 629.5041732283464171 376.9466726927594209 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+183.333327307240495 616.0041732283464171 Td
+(Limiting network access helps prevent unauthorized access and limits the impact of) Tj
+T* (security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 138.333327307240495 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Enable logging and) Tj
+T* (monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+178.3333273072404666 596.5041732283464171 376.9466726927594209 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+183.333327307240495 583.0041732283464171 Td
+(Logging and monitoring enable you to detect and respond to security incidents and) Tj
+T* (other issues affecting your Auto Scaling groups.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 138.333327307240495 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Regularly update your Auto) Tj
+T* (Scaling groups and their) Tj
+T* (components) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+178.3333273072404666 563.5041732283464171 376.9466726927594209 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+183.333327307240495 550.0041732283464171 Td
+(Regularly updating your Auto Scaling groups and their components helps ensure) Tj
+T* (that security vulnerabilities are addressed and that you are using the latest features) Tj
+T* (and functionality.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 3861
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - AWS Batch) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 140.4726924101200325 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+180.4726924101200325 728.5041732283464171 374.8073075898798834 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+185.4726924101200041 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 140.4726924101200325 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use IAM roles to control) Tj
+T* (access to AWS Batch) Tj
+T* (resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+180.4726924101200325 707.0041732283464171 374.8073075898798834 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+185.4726924101200041 693.5041732283464171 Td
+(Using IAM roles enables you to control which users and applications have access) Tj
+T* (to AWS Batch resources and what actions they can perform.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 140.4726924101200325 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Encrypt data in transit and at) Tj
+T* (rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+180.4726924101200325 662.5041732283464171 374.8073075898798834 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+185.4726924101200041 649.0041732283464171 Td
+(Encrypting data in transit and at rest helps protect sensitive information from) Tj
+T* (interception and unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 140.4726924101200325 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Limit network access to AWS) Tj
+T* (Batch resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+180.4726924101200325 629.5041732283464171 374.8073075898798834 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+185.4726924101200041 616.0041732283464171 Td
+(Limiting network access helps prevent unauthorized access and limits the impact) Tj
+T* (of security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 140.4726924101200325 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Enable logging and) Tj
+T* (monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+180.4726924101200325 596.5041732283464171 374.8073075898798834 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+185.4726924101200041 583.0041732283464171 Td
+(Logging and monitoring enable you to detect and respond to security incidents and) Tj
+T* (other issues affecting your AWS Batch environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 140.4726924101200325 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Regularly update your AWS) Tj
+T* (Batch environment and its) Tj
+T* (components) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+180.4726924101200325 563.5041732283464171 374.8073075898798834 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+185.4726924101200041 550.0041732283464171 Td
+(Regularly updating your AWS Batch environment and its components helps ensure) Tj
+T* (that security vulnerabilities are addressed and that you are using the latest features) Tj
+T* (and functionality.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 4637
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - CloudTrail) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 167.9796174233695467 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+207.9796174233695467 728.5041732283464171 347.3003825766304544 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+212.9796174233695467 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 167.9796174233695467 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable CloudTrail logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+207.9796174233695467 707.0041732283464171 347.3003825766304544 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+212.9796174233695467 693.5041732283464171 Td
+(Enable AWS CloudTrail logging to track changes made to your AWS account) Tj
+T* (and resources.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 167.9796174233695467 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Encrypt CloudTrail logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+207.9796174233695467 674.0041732283464171 347.3003825766304544 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+212.9796174233695467 660.5041732283464171 Td
+(Use server-side encryption \(SSE\) or client-side encryption to encrypt) Tj
+T* (CloudTrail logs at rest.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 167.9796174233695467 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Restrict access to CloudTrail logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+207.9796174233695467 641.0041732283464171 347.3003825766304544 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+212.9796174233695467 627.5041732283464171 Td
+(Limit access to CloudTrail logs to only authorized personnel, using IAM) Tj
+T* (policies or bucket policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 608.0041732283465308 167.9796174233695467 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 594.5041732283464171 Td
+(Monitor CloudTrail logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+207.9796174233695467 608.0041732283465308 347.3003825766304544 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+212.9796174233695467 594.5041732283464171 Td
+(Monitor CloudTrail logs for unusual activity, using services like Amazon) Tj
+T* (CloudWatch or Amazon Athena.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 575.0041732283464171 167.9796174233695467 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 561.5041732283464171 Td
+(Enable multi-factor authentication) Tj
+T* (\(MFA\) for CloudTrail logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+207.9796174233695467 575.0041732283464171 347.3003825766304544 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+212.9796174233695467 561.5041732283464171 Td
+(Enable MFA for CloudTrail logging to prevent unauthorized changes to) Tj
+T* (CloudTrail configuration.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 542.0041732283464171 167.9796174233695467 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 528.5041732283464171 Td
+(Regularly review CloudTrail logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+207.9796174233695467 542.0041732283464171 347.3003825766304544 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+212.9796174233695467 528.5041732283464171 Td
+(Regularly review CloudTrail logs to identify and investigate any security or) Tj
+T* (compliance issues.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 509.0041732283464171 167.9796174233695467 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 495.5041732283464739 Td
+(Protect CloudTrail credentials) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+207.9796174233695467 509.0041732283464171 347.3003825766304544 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+212.9796174233695467 495.5041732283464739 Td
+(Protect CloudTrail credentials, including access keys and secret access) Tj
+T* (keys, using best practices like rotation and secure storage.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 3789
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - AWS Compute Optimizer) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 136.2984673844206043 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+176.2984673844206043 728.5041732283464171 378.9815326155792832 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+181.2984673844206043 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 136.2984673844206043 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable encryption for) Tj
+T* (Compute Optimizer data) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+176.2984673844206043 707.0041732283464171 378.9815326155792832 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+181.2984673844206043 693.5041732283464171 Td
+(Enabling encryption for Compute Optimizer data at rest helps protect sensitive) Tj
+T* (information from unauthorized access or disclosure.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 136.2984673844206043 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Enable AWS CloudTrail) Tj
+T* (logging for Compute) Tj
+T* (Optimizer) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+176.2984673844206043 674.0041732283464171 378.9815326155792832 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+181.2984673844206043 660.5041732283464171 Td
+(Enabling AWS CloudTrail logging for Compute Optimizer helps you monitor and) Tj
+T* (audit changes to your Compute Optimizer resources.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 136.2984673844206043 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Limit access to Compute) Tj
+T* (Optimizer) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+176.2984673844206043 629.5041732283464171 378.9815326155792832 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+181.2984673844206043 616.0041732283464171 Td
+(Limiting access to Compute Optimizer helps prevent unauthorized access and limits) Tj
+T* (the impact of security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 136.2984673844206043 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+176.2984673844206043 596.5041732283464171 378.9815326155792832 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+181.2984673844206043 583.0041732283464171 Td
+(Regularly reviewing and auditing security controls helps ensure that your Compute) Tj
+T* (Optimizer resources are secure and compliant with your security policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 136.2984673844206043 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Ensure data accuracy) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+176.2984673844206043 563.5041732283464171 378.9815326155792832 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+181.2984673844206043 550.0041732283464171 Td
+(Ensuring data accuracy helps Compute Optimizer provide accurate) Tj
+T* (recommendations and avoid potential security issues.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+27 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 5208
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - DynamoDB) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 92.5481834597328543 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+132.5481834597328543 728.5041732283464171 422.7318165402671184 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+137.5481834597328543 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 92.5481834597328543 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable VPC) Tj
+T* (Endpoints) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.5481834597328543 707.0041732283464171 422.7318165402671184 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.5481834597328543 693.5041732283464171 Td
+(Enable VPC endpoints to ensure that all traffic to and from your DynamoDB tables is) Tj
+T* (restricted within your VPC and does not traverse the public internet.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 92.5481834597328543 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use IAM roles) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.5481834597328543 674.0041732283464171 422.7318165402671184 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.5481834597328543 660.5041732283464171 Td
+(Use IAM roles to control access to your DynamoDB tables and limit access to only the) Tj
+T* (necessary permissions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 92.5481834597328543 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Enable encryption) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.5481834597328543 641.0041732283464171 422.7318165402671184 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.5481834597328543 627.5041732283464171 Td
+(Enable server-side encryption for your DynamoDB tables to protect against unauthorized) Tj
+T* (access to your data.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 608.0041732283465308 92.5481834597328543 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 594.5041732283464171 Td
+(Monitor access) Tj
+T* (patterns) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.5481834597328543 608.0041732283465308 422.7318165402671184 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.5481834597328543 594.5041732283464171 Td
+(Monitor access patterns to your DynamoDB tables to detect anomalous behavior and) Tj
+T* (potential security threats.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 575.0041732283464171 92.5481834597328543 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 561.5041732283464171 Td
+(Enable audit) Tj
+T* (logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.5481834597328543 575.0041732283464171 422.7318165402671184 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.5481834597328543 561.5041732283464171 Td
+(Enable audit logging for your DynamoDB tables to track access and changes to your data.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 542.0041732283464171 92.5481834597328543 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 528.5041732283464171 Td
+(Enable automatic) Tj
+T* (backups) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.5481834597328543 542.0041732283464171 422.7318165402671184 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.5481834597328543 528.5041732283464171 Td
+(Enable automatic backups for your DynamoDB tables to ensure that you can restore your) Tj
+T* (data in the event of a disaster or data loss.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 509.0041732283464171 92.5481834597328543 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 495.5041732283464739 Td
+(Use fine-grained) Tj
+T* (access control) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.5481834597328543 509.0041732283464171 422.7318165402671184 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.5481834597328543 495.5041732283464739 Td
+(Use fine-grained access control to limit access to specific items or attributes within your) Tj
+T* (DynamoDB tables.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 476.0041732283464739 92.5481834597328543 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 462.5041732283465308 Td
+(Monitor network) Tj
+T* (traffic) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.5481834597328543 476.0041732283464739 422.7318165402671184 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.5481834597328543 462.5041732283465308 Td
+(Monitor network traffic to and from your DynamoDB tables to detect and prevent unauthorized) Tj
+T* (access or data exfiltration.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+29 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 3839
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon Elastic Block Store \(EBS\)) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 153.7342128935533765 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+193.7342128935533765 728.5041732283464171 361.5457871064465394 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+198.7342128935533765 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 153.7342128935533765 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Encrypt data at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.7342128935533765 707.0041732283464171 361.5457871064465394 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.7342128935533765 693.5041732283464171 Td
+(Encrypting your EBS volumes at rest helps protect your data from unauthorized) Tj
+T* (access or disclosure in the event of theft or loss of your storage devices.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 153.7342128935533765 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use secure AWS Identity and) Tj
+T* (Access Management \(IAM\)) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.7342128935533765 674.0041732283464171 361.5457871064465394 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.7342128935533765 660.5041732283464171 Td
+(Using secure IAM policies helps ensure that access to your EBS volumes is) Tj
+T* (limited to authorized users and applications.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 153.7342128935533765 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Implement backup and disaster) Tj
+T* (recovery plans) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.7342128935533765 629.5041732283464171 361.5457871064465394 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.7342128935533765 616.0041732283464171 Td
+(Implementing backup and disaster recovery plans helps ensure that your EBS) Tj
+T* (volumes are available and functional during a security breach or other disaster.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 153.7342128935533765 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Monitor EBS volume activity) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.7342128935533765 596.5041732283464171 361.5457871064465394 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.7342128935533765 583.0041732283464171 Td
+(Monitoring EBS volume activity helps you identify potential security issues or) Tj
+T* (anomalies in your EBS environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 153.7342128935533765 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+193.7342128935533765 563.5041732283464171 361.5457871064465394 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+198.7342128935533765 550.0041732283464171 Td
+(Regularly reviewing and auditing security controls helps ensure that your EBS) Tj
+T* (resources are secure and compliant with your security policies.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+31 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 9385
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - EC2) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 114.2841507967354318 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+154.2841507967354175 728.5041732283464171 400.9958492032645267 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+159.2841507967354175 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use security groups) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 707.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 693.5041732283464171 Td
+(Create and configure security groups to control inbound and outbound traffic for your) Tj
+T* (EC2 instances.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Enable monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 674.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 660.5041732283464171 Td
+(Enable CloudWatch monitoring to track the performance and status of your EC2) Tj
+T* (instances.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Create IAM roles) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 641.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 627.5041732283464171 Td
+(Create IAM roles to manage access to your EC2 instances and assign permissions for) Tj
+T* (AWS resources and services.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 608.0041732283465308 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 594.5041732283464171 Td
+(Enable VPC Flow Logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 608.0041732283465308 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 594.5041732283464171 Td
+(Enable VPC Flow Logs to monitor and capture information about IP traffic going to and) Tj
+T* (from your EC2 instances in your VPC.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 575.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 561.5041732283464171 Td
+(Implement Network) Tj
+T* (ACLs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 575.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 561.5041732283464171 Td
+(Use Network Access Control Lists \(NACLs\) to add an additional layer of security by) Tj
+T* (controlling traffic at the subnet level.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 542.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 528.5041732283464171 Td
+(Enable AWS Config) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 542.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 528.5041732283464171 Td
+(Enable AWS Config to continuously monitor and record your EC2 instances') Tj
+T* (configurations and evaluate them against best practices.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 509.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 495.5041732283464739 Td
+(Encrypt EBS volumes) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 509.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 495.5041732283464739 Td
+(Enable encryption for your Elastic Block Store \(EBS\) volumes to protect your data at) Tj
+T* (rest.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 476.0041732283464739 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 462.5041732283465308 Td
+(Enable instance) Tj
+T* (metadata protection) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 476.0041732283464739 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 462.5041732283465308 Td
+(Enable Instance Metadata Service Version 2 \(IMDSv2\) to protect against unauthorized) Tj
+T* (access to the instance metadata.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 443.0041732283465308 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 429.5041732283465876 Td
+(Use dedicated tenancy) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 443.0041732283465308 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 429.5041732283465876 Td
+(Use dedicated tenancy to launch EC2 instances on dedicated hardware for increased) Tj
+T* (security and compliance.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 410.0041732283465876 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 396.5041732283465876 Td
+(Enable AWS Systems) Tj
+T* (Manager) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 410.0041732283465876 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 396.5041732283465876 Td
+(Use AWS Systems Manager to manage and automate tasks on your EC2 instances,) Tj
+T* (such as patching and configuration management.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 377.0041732283465876 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 363.5041732283466445 Td
+(Regularly patch and) Tj
+T* (update) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 377.0041732283465876 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 363.5041732283466445 Td
+(Regularly apply security patches and updates to your EC2 instances and applications to) Tj
+T* (reduce vulnerabilities.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 344.0041732283466445 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 330.5041732283467013 Td
+(Implement Amazon) Tj
+T* (Inspector) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 344.0041732283466445 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 330.5041732283467013 Td
+(Use Amazon Inspector to assess the security and compliance of your EC2 instances by) Tj
+T* (identifying potential security issues.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 311.0041732283467013 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 297.5041732283467582 Td
+(Use Amazon) Tj
+T* (GuardDuty) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 311.0041732283467013 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 297.5041732283467582 Td
+(Enable Amazon GuardDuty to continuously monitor and detect threats to your EC2) Tj
+T* (instances and AWS accounts.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 278.0041732283467013 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 264.5041732283467582 Td
+(Enable Amazon Macie) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 278.0041732283467013 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 264.5041732283467582 Td
+(Use Amazon Macie to discover, classify, and protect sensitive data stored in your EC2) Tj
+T* (instances.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 245.0041732283467582 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 231.5041732283467582 Td
+(Implement AWS WAF) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 245.0041732283467582 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 231.5041732283467582 Td
+(Use AWS Web Application Firewall \(WAF\) to protect your web applications hosted on) Tj
+T* (EC2 instances from common web exploits.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 212.0041732283467866 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 198.5041732283468718 Td
+(Enable AWS Shield) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 212.0041732283467866 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 198.5041732283468718 Td
+(Enable AWS Shield to protect your EC2 instances from Distributed Denial of Service) Tj
+T* (\(DDoS\) attacks.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+33 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 4607
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - ECR) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 105.4163947405627653 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+145.4163947405627653 728.5041732283464171 409.8636052594371222 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+150.4163947405627653 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 105.4163947405627653 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable encryption) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+145.4163947405627653 707.0041732283464171 409.8636052594371222 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+150.4163947405627653 693.5041732283464171 Td
+(Enable encryption at rest for your ECR repositories to protect against unauthorized access) Tj
+T* (to your data.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 105.4163947405627653 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use private) Tj
+T* (repositories) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+145.4163947405627653 674.0041732283464171 409.8636052594371222 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+150.4163947405627653 660.5041732283464171 Td
+(Use private repositories to protect your container images from being accessed by) Tj
+T* (unauthorized users.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 105.4163947405627653 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Scan images for) Tj
+T* (vulnerabilities) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+145.4163947405627653 641.0041732283464171 409.8636052594371222 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+150.4163947405627653 627.5041732283464171 Td
+(Use Amazon ECR image scanning to detect and remediate vulnerabilities in your container) Tj
+T* (images.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 608.0041732283465308 105.4163947405627653 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 594.5041732283464171 Td
+(Implement access) Tj
+T* (control) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+145.4163947405627653 608.0041732283465308 409.8636052594371222 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+150.4163947405627653 594.5041732283464171 Td
+(Use IAM policies and resource-based permissions to control access to your ECR) Tj
+T* (repositories and images.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 575.0041732283464171 105.4163947405627653 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 561.5041732283464171 Td
+(Use VPC endpoints) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+145.4163947405627653 575.0041732283464171 409.8636052594371222 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+150.4163947405627653 561.5041732283464171 Td
+(Use VPC endpoints to securely access your ECR repositories without exposing them to the) Tj
+T* (public internet.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 542.0041732283464171 105.4163947405627653 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 528.5041732283464171 Td
+(Enable lifecycle) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+145.4163947405627653 542.0041732283464171 409.8636052594371222 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+150.4163947405627653 528.5041732283464171 Td
+(Use lifecycle policies to automatically clean up untagged or unused images, and to expire) Tj
+T* (old images to reduce storage costs.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 509.0041732283464171 105.4163947405627653 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 495.5041732283464739 Td
+(Audit trail) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+145.4163947405627653 509.0041732283464171 409.8636052594371222 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+150.4163947405627653 495.5041732283464739 Td
+(Enable AWS CloudTrail to log all API calls made to your ECR repositories for auditing and) Tj
+T* (compliance purposes.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+35 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 4519
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon EKS) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 163.2945265888457982 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+203.2945265888458266 728.5041732283464171 351.9854734111540893 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+208.2945265888457982 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 163.2945265888457982 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable VPC Flow Logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.2945265888458266 707.0041732283464171 351.9854734111540893 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.2945265888457982 693.5041732283464171 Td
+(Enabling VPC Flow Logs allows you to capture information about the IP traffic) Tj
+T* (going to and from your EKS cluster, which can be useful for troubleshooting) Tj
+T* (and security analysis.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 163.2945265888457982 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Use RBAC \(Role-Based Access) Tj
+T* (Control\) to control access to the) Tj
+T* (Kubernetes API) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.2945265888458266 662.5041732283464171 351.9854734111540893 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.2945265888457982 649.0041732283464171 Td
+(RBAC enables you to define granular access controls to the Kubernetes API,) Tj
+T* (which helps prevent unauthorized access and privilege escalation.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 618.0041732283464171 163.2945265888457982 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 604.5041732283464171 Td
+(Encrypt data in transit and at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.2945265888458266 618.0041732283464171 351.9854734111540893 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.2945265888457982 604.5041732283464171 Td
+(Encrypting data in transit and at rest helps protect sensitive information from) Tj
+T* (interception and unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 585.0041732283464171 163.2945265888457982 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 571.5041732283464171 Td
+(Use network policies to control) Tj
+T* (traffic flow) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.2945265888458266 585.0041732283464171 351.9854734111540893 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.2945265888457982 571.5041732283464171 Td
+(Network policies enable you to control the flow of traffic to and from your) Tj
+T* (Kubernetes pods, which can help prevent unauthorized access and limit the) Tj
+T* (impact of security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 540.5041732283465308 163.2945265888457982 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 527.0041732283464171 Td
+(Regularly update your EKS cluster) Tj
+T* (and its components) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.2945265888458266 540.5041732283465308 351.9854734111540893 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.2945265888457982 527.0041732283464171 Td
+(Regularly updating your EKS cluster and its components helps ensure that) Tj
+T* (security vulnerabilities are addressed and that you are using the latest) Tj
+T* (features and functionality.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 496.0041732283464739 163.2945265888457982 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 482.5041732283464739 Td
+(Enable logging and monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.2945265888458266 496.0041732283464739 351.9854734111540893 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.2945265888457982 482.5041732283464739 Td
+(Logging and monitoring enable you to detect and respond to security) Tj
+T* (incidents and other issues affecting your EKS cluster.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+37 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 7078
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - AWS Elastic Beanstalk) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 127.6861996422183836 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+167.6861996422183836 728.5041732283464171 387.5938003577815039 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+172.6861996422183552 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use IAM roles to control) Tj
+T* (access to AWS Elastic) Tj
+T* (Beanstalk resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 707.0041732283464171 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 693.5041732283464171 Td
+(Using IAM roles enables you to control which users and applications have access to) Tj
+T* (AWS Elastic Beanstalk resources and what actions they can perform.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 127.6861996422183836 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Encrypt data in transit and) Tj
+T* (at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 662.5041732283464171 387.5938003577815039 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 649.0041732283464171 Td
+(Encrypting data in transit and at rest helps protect sensitive information from) Tj
+T* (interception and unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Limit network access to) Tj
+T* (Elastic Beanstalk) Tj
+T* (resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 629.5041732283464171 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 616.0041732283464171 Td
+(Limiting network access helps prevent unauthorized access and limits the impact of) Tj
+T* (security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 585.0041732283465308 127.6861996422183836 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 571.5041732283464171 Td
+(Enable logging and) Tj
+T* (monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 585.0041732283465308 387.5938003577815039 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 571.5041732283464171 Td
+(Logging and monitoring enable you to detect and respond to security incidents and) Tj
+T* (other issues affecting your Elastic Beanstalk environments.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 552.0041732283464171 127.6861996422183836 -56. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 538.5041732283464171 Td
+(Regularly update your) Tj
+T* (Elastic Beanstalk) Tj
+T* (environments and their) Tj
+T* (components) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 552.0041732283464171 387.5938003577815039 -56. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 538.5041732283464171 Td
+(Regularly updating your Elastic Beanstalk environments and their components helps) Tj
+T* (ensure that security vulnerabilities are addressed and that you are using the latest) Tj
+T* (features and functionality.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 496.0041732283464739 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 482.5041732283464739 Td
+(Implement function-level) Tj
+T* (access control) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 496.0041732283464739 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 482.5041732283464739 Td
+(Use AWS Identity and Access Management \(IAM\) policies to control access to your) Tj
+T* (Elastic Beanstalk environments. Restrict access to only the actions and resources) Tj
+T* (that are necessary for the environment to perform its intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 451.5041732283464171 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 438.0041732283464739 Td
+(Implement secure) Tj
+T* (deployment practices) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 451.5041732283464171 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 438.0041732283464739 Td
+(Implementing secure deployment practices helps ensure that your Elastic Beanstalk) Tj
+T* (environments are deployed securely and that your applications are not vulnerable to) Tj
+T* (security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 407.0041732283464171 127.6861996422183836 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 393.5041732283464171 Td
+(Use WAF to protect) Tj
+T* (against web-based attacks) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 407.0041732283464171 387.5938003577815039 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 393.5041732283464171 Td
+(AWS WAF \(Web Application Firewall\) can be used to protect against common) Tj
+T* (web-based attacks such as SQL injection and cross-site scripting.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 374.0041732283464171 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 360.5041732283464739 Td
+(Implement access and) Tj
+T* (authentication controls for) Tj
+T* (applications) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 374.0041732283464171 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 360.5041732283464739 Td
+(Implementing access and authentication controls for your applications helps ensure) Tj
+T* (that only authorized users can access sensitive information or perform privileged) Tj
+T* (actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 329.5041732283464171 127.6861996422183836 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 316.0041732283464171 Td
+(Implement data protection) Tj
+T* (controls for applications) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 329.5041732283464171 387.5938003577815039 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 316.0041732283464171 Td
+(Implementing data protection controls for your applications helps ensure that sensitive) Tj
+T* (information is protected from unauthorized access or disclosure.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+39 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 40 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 5726
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Fargate) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 114.818461538461591 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+154.8184615384615768 728.5041732283464171 400.4615384615383391 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+159.8184615384615768 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use task roles) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 707.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 693.5041732283464171 Td
+(Assign a task role to your Fargate tasks to ensure that they have only the necessary) Tj
+T* (permissions to perform their specific functions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use VPC) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 674.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 660.5041732283464171 Td
+(Deploy Fargate tasks in a VPC to control network access and to restrict public access to) Tj
+T* (your resources.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Use security groups) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 641.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 627.5041732283464171 Td
+(Define security groups to control inbound and outbound traffic for your Fargate tasks and) Tj
+T* (to restrict access to only necessary ports.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 608.0041732283465308 114.818461538461591 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 594.5041732283464171 Td
+(Use IAM roles for) Tj
+T* (service accounts) Tj
+T* (\(IRSA\)) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 608.0041732283465308 400.4615384615383391 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 594.5041732283464171 Td
+(Use IAM roles for service accounts \(IRSA\) to enable your pods to communicate securely) Tj
+T* (with other AWS services using IAM credentials.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 114.818461538461591 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Encrypt data at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 563.5041732283464171 400.4615384615383391 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 550.0041732283464171 Td
+(Use encryption to protect sensitive data stored in volumes attached to Fargate tasks.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 542.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 528.5041732283464171 Td
+(Encrypt data in transit) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 542.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 528.5041732283464171 Td
+(Use encryption to protect data in transit between Fargate tasks and other AWS services) Tj
+T* (or external endpoints.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 509.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 495.5041732283464739 Td
+(Monitor container) Tj
+T* (images) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 509.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 495.5041732283464739 Td
+(Regularly scan and monitor container images for vulnerabilities and keep them up to) Tj
+T* (date to reduce the risk of exploits.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 476.0041732283464739 114.818461538461591 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 462.5041732283465308 Td
+(Enable logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 476.0041732283464739 400.4615384615383391 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 462.5041732283465308 Td
+(Enable logging for your Fargate tasks to monitor and audit activity within your containers.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 454.5041732283465308 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 441.0041732283465308 Td
+(Use AWS Secrets) Tj
+T* (Manager) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 454.5041732283465308 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 441.0041732283465308 Td
+(Use AWS Secrets Manager to securely store and manage sensitive data such as) Tj
+T* (passwords, API keys, and other credentials used by your Fargate tasks.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+41 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 42 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 7986
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Lambda) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 163.0546987450600511 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+203.0546987450600795 728.5041732283464171 352.2253012549398363 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+208.0546987450600795 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 163.0546987450600511 -56. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use AWS Secrets Manager or) Tj
+T* (AWS Systems Manager) Tj
+T* (Parameter Store to store sensitive) Tj
+T* (information) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 707.0041732283464171 352.2253012549398363 -56. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 693.5041732283464171 Td
+(To prevent accidental exposure of sensitive information, use AWS Secrets) Tj
+T* (Manager or AWS Systems Manager Parameter Store to store sensitive) Tj
+T* (information such as passwords, API keys, and database connection strings.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 651.0041732283464171 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 637.5041732283464171 Td
+(Implement function-level access) Tj
+T* (control) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 651.0041732283464171 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 637.5041732283464171 Td
+(Use AWS Identity and Access Management \(IAM\) policies to control access) Tj
+T* (to your Lambda functions. Restrict access to only the actions and resources) Tj
+T* (that are necessary for the function to perform its intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 606.5041732283464171 163.0546987450600511 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 593.0041732283464171 Td
+(Enable VPC access for your) Tj
+T* (Lambda functions) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 606.5041732283464171 352.2253012549398363 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 593.0041732283464171 Td
+(Use Amazon Virtual Private Cloud \(VPC\) to isolate your Lambda functions) Tj
+T* (from the public internet and to access resources in your own VPC.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 573.5041732283464171 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 560.0041732283464171 Td
+(Enable AWS X-Ray tracing) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 573.5041732283464171 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 560.0041732283464171 Td
+(Enable AWS X-Ray tracing to monitor and troubleshoot your serverless) Tj
+T* (application. X-Ray provides end-to-end tracing of requests and helps you) Tj
+T* (identify performance bottlenecks and errors.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 529.0041732283464171 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 515.5041732283464171 Td
+(Use AWS Key Management) Tj
+T* (Service to encrypt data in transit) Tj
+T* (and at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 529.0041732283464171 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 515.5041732283464171 Td
+(Use AWS Key Management Service \(KMS\) to create and manage encryption) Tj
+T* (keys that protect your data. Encrypt data in transit and at rest using) Tj
+T* (KMS-managed keys.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 484.5041732283464739 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 471.0041732283465308 Td
+(Monitor and log function) Tj
+T* (invocations) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 484.5041732283464739 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 471.0041732283465308 Td
+(Use Amazon CloudWatch to monitor and log function invocations. Use) Tj
+T* (CloudWatch Logs to store and analyze logs generated by your Lambda) Tj
+T* (functions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 440.0041732283464171 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 426.5041732283464739 Td
+(Use AWS Config to monitor) Tj
+T* (resource configurations and) Tj
+T* (compliance) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 440.0041732283464171 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 426.5041732283464739 Td
+(Use AWS Config to monitor the configurations of your Lambda functions and) Tj
+T* (their associated resources. Use Config rules to define compliance rules for) Tj
+T* (your resources and to get notifications when they change.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 395.5041732283464171 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 382.0041732283464171 Td
+(Implement least privilege) Tj
+T* (permissions for your Lambda) Tj
+T* (functions) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 395.5041732283464171 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 382.0041732283464171 Td
+(Use the principle of least privilege to assign permissions to your Lambda) Tj
+T* (functions. Assign only the necessary permissions to access the required) Tj
+T* (resources and actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 351.0041732283463602 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 337.5041732283464171 Td
+(Use environment variables to) Tj
+T* (configure your Lambda functions) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 351.0041732283463602 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 337.5041732283464171 Td
+(Use environment variables to pass configuration information to your Lambda) Tj
+T* (functions. Store sensitive configuration information in AWS Secrets Manager) Tj
+T* (or AWS Systems Manager Parameter Store.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 306.5041732283463602 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 293.0041732283464171 Td
+(Implement automated) Tj
+T* (deployments for your Lambda) Tj
+T* (functions) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 306.5041732283463602 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 293.0041732283464171 Td
+(Use AWS CodeDeploy to automate the deployment of your Lambda) Tj
+T* (functions. CodeDeploy can help you perform rolling deployments and) Tj
+T* (automate the testing of your functions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 262.0041732283463034 163.0546987450600511 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 248.5041732283463034 Td
+(Test and monitor your Lambda) Tj
+T* (functions) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+203.0546987450600795 262.0041732283463034 352.2253012549398363 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+208.0546987450600795 248.5041732283463034 Td
+(Use AWS Lambda built-in monitoring capabilities to monitor the health of your) Tj
+T* (Lambda functions. Use AWS Lambda Test Events to test your functions in) Tj
+T* (different scenarios.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+43 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 44 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 7455
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - AWS Local Zones) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 91.5364273349271542 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+131.53642733492714 728.5041732283464171 423.7435726650727474 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+136.53642733492714 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 91.5364273349271542 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use VPCs to) Tj
+T* (isolate resources) Tj
+T* (in Local Zones) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 707.0041732283464171 423.7435726650727474 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 693.5041732283464171 Td
+(Using VPCs helps to isolate your resources within AWS Local Zones and prevent) Tj
+T* (unauthorized access to your resources.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 91.5364273349271542 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Encrypt data in) Tj
+T* (transit and at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 662.5041732283464171 423.7435726650727474 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 649.0041732283464171 Td
+(Encrypting data in transit and at rest helps protect sensitive information from interception and) Tj
+T* (unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 91.5364273349271542 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Limit access to) Tj
+T* (Local Zones) Tj
+T* (resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 629.5041732283464171 423.7435726650727474 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 616.0041732283464171 Td
+(Limiting access to Local Zones resources helps prevent unauthorized access and limits the) Tj
+T* (impact of security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 585.0041732283465308 91.5364273349271542 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 571.5041732283464171 Td
+(Enable logging) Tj
+T* (and monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 585.0041732283465308 423.7435726650727474 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 571.5041732283464171 Td
+(Logging and monitoring enable you to detect and respond to security incidents and other) Tj
+T* (issues affecting your Local Zones resources.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 552.0041732283464171 91.5364273349271542 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 538.5041732283464171 Td
+(Regularly update) Tj
+T* (your Local Zones) Tj
+T* (resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 552.0041732283464171 423.7435726650727474 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 538.5041732283464171 Td
+(Regularly updating your Local Zones resources helps ensure that security vulnerabilities are) Tj
+T* (addressed and that you are using the latest features and functionality.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 507.5041732283465308 91.5364273349271542 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 494.0041732283464739 Td
+(Implement) Tj
+T* (function-level) Tj
+T* (access control) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 507.5041732283465308 423.7435726650727474 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 494.0041732283464739 Td
+(Use AWS Identity and Access Management \(IAM\) policies to control access to your Local) Tj
+T* (Zones resources. Restrict access to only the actions and resources that are necessary for the) Tj
+T* (resource to perform its intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 463.0041732283464739 91.5364273349271542 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 449.5041732283465308 Td
+(Implement secure) Tj
+T* (deployment) Tj
+T* (practices) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 463.0041732283464739 423.7435726650727474 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 449.5041732283465308 Td
+(Implementing secure deployment practices helps ensure that your Local Zones resources are) Tj
+T* (deployed securely and that your applications are not vulnerable to security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 418.5041732283464739 91.5364273349271542 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 405.0041732283464739 Td
+(Implement backup) Tj
+T* (and disaster) Tj
+T* (recovery plans) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 418.5041732283464739 423.7435726650727474 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 405.0041732283464739 Td
+(Implementing backup and disaster recovery plans helps ensure that your Local Zones) Tj
+T* (resources are available and functional during a security breach or other disaster.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 374.0041732283464171 91.5364273349271542 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 360.5041732283464739 Td
+(Implement least) Tj
+T* (privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 374.0041732283464171 423.7435726650727474 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 360.5041732283464739 Td
+(Implementing least privilege access helps ensure that users and applications have only the) Tj
+T* (minimum privileges necessary to perform their intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 341.0041732283464739 91.5364273349271542 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 327.5041732283465308 Td
+(Implement) Tj
+T* (security controls) Tj
+T* (for data at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 341.0041732283464739 423.7435726650727474 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 327.5041732283465308 Td
+(Implementing security controls for data at rest helps ensure that sensitive information is) Tj
+T* (protected from unauthorized access or disclosure.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 296.5041732283464171 91.5364273349271542 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 283.0041732283465308 Td
+(Regularly review) Tj
+T* (and audit security) Tj
+T* (controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+131.53642733492714 296.5041732283464171 423.7435726650727474 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+136.53642733492714 283.0041732283465308 Td
+(Regularly reviewing and auditing security controls helps ensure that your Local Zones) Tj
+T* (resources are secure and compliant with your security policies.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+45 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 46 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 9449
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - S3) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 93.4347608670720149 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+133.4347608670720149 728.5041732283464171 421.8452391329279294 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+138.4347608670719865 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 93.4347608670720149 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable versioning) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 707.0041732283464171 421.8452391329279294 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 693.5041732283464171 Td
+(Enable versioning for your S3 buckets to protect against accidental deletion or overwrite.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 685.5041732283465308 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 672.0041732283464171 Td
+(Enable encryption) Tj
+T* (in S3) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 685.5041732283465308 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 672.0041732283464171 Td
+(Enable encryption for your S3 buckets to protect against unauthorized access to your data at) Tj
+T* (rest.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 652.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 639.0041732283464171 Td
+(Create IAM) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 652.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 639.0041732283464171 Td
+(Use IAM policies to control access to your S3 buckets and objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 619.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 606.0041732283464171 Td
+(Enable object lock) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 619.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 606.0041732283464171 Td
+(Enable object lock to prevent objects from being deleted or overwritten for a defined retention) Tj
+T* (period.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 586.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 573.0041732283464171 Td
+(Enable bucket) Tj
+T* (logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 586.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 573.0041732283464171 Td
+(Enable access logging on your S3 buckets to monitor and analyze access patterns and) Tj
+T* (identify potential security risks.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 553.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 540.0041732283464171 Td
+(Enable CloudTrail) Tj
+T* (integration) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 553.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 540.0041732283464171 Td
+(Integrate your S3 buckets with AWS CloudTrail to capture and store data events for auditing) Tj
+T* (and compliance purposes.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 520.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 507.0041732283464171 Td
+(Enable AWS) Tj
+T* (Config) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 520.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 507.0041732283464171 Td
+(Enable AWS Config to continuously monitor and record your S3 bucket configurations and) Tj
+T* (evaluate them against best practices.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 487.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 474.0041732283464171 Td
+(Set up S3 event) Tj
+T* (notifications) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 487.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 474.0041732283464171 Td
+(Configure S3 event notifications to send messages when specific events occur in your S3) Tj
+T* (buckets, such as object creation or deletion.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 454.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 441.0041732283464739 Td
+(Implement bucket) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 454.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 441.0041732283464739 Td
+(Use S3 bucket policies to manage permissions at the bucket level, controlling access to all) Tj
+T* (objects within a bucket.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 421.5041732283464739 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 408.0041732283465308 Td
+(Set up CORS) Tj
+T* (configurations) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 421.5041732283464739 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 408.0041732283465308 Td
+(Configure Cross-Origin Resource Sharing \(CORS\) to control which origins can access your) Tj
+T* (S3 buckets and objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 388.5041732283465308 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 375.0041732283465308 Td
+(Enable MFA) Tj
+T* (Delete) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 388.5041732283465308 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 375.0041732283465308 Td
+(Enable Multi-Factor Authentication \(MFA\) Delete to require additional authentication when) Tj
+T* (deleting objects or changing bucket versioning settings.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 355.5041732283465308 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 342.0041732283465876 Td
+(Enable transfer) Tj
+T* (acceleration) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 355.5041732283465308 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 342.0041732283465876 Td
+(Enable S3 Transfer Acceleration to improve data transfer speed and reduce latency for your) Tj
+T* (S3 buckets.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 322.5041732283465876 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 309.0041732283466445 Td
+(Implement bucket) Tj
+T* (tagging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 322.5041732283465876 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 309.0041732283466445 Td
+(Use bucket tagging to organize and manage your S3 buckets and enable cost allocation) Tj
+T* (tracking.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 289.5041732283466445 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 276.0041732283466445 Td
+(Configure lifecycle) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 289.5041732283466445 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 276.0041732283466445 Td
+(Set up lifecycle policies to automate the management of objects in your S3 buckets, such as) Tj
+T* (transitioning objects to different storage classes or deleting objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 256.5041732283466445 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 243.0041732283467582 Td
+(Implement public) Tj
+T* (access blocking) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 256.5041732283466445 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 243.0041732283467582 Td
+(Use S3 Block Public Access settings to prevent public access to your S3 buckets and objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 223.5041732283467013 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 210.0041732283467582 Td
+(Use VPC) Tj
+T* (endpoints) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 223.5041732283467013 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 210.0041732283467582 Td
+(Create VPC endpoints for Amazon S3 to securely access your buckets over a private network) Tj
+T* (connection.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+47 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 48 0 R
+>>
+endobj
+48 0 obj
+<<
+/Length 4506
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - SNS) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 131.7551392405063666 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+171.7551392405063666 728.5041732283464171 383.5248607594934924 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+176.7551392405063666 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 131.7551392405063666 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable access logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+171.7551392405063666 707.0041732283464171 383.5248607594934924 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+176.7551392405063666 693.5041732283464171 Td
+(Enable access logs for SNS to monitor access and provide audit trails.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 685.5041732283465308 131.7551392405063666 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 672.0041732283464171 Td
+(Enable server-side) Tj
+T* (encryption) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+171.7551392405063666 685.5041732283465308 383.5248607594934924 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+176.7551392405063666 672.0041732283464171 Td
+(Enable server-side encryption for SNS to protect against unauthorized access to) Tj
+T* (your data.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 652.5041732283464171 131.7551392405063666 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 639.0041732283464171 Td
+(Use IAM policies to control) Tj
+T* (access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+171.7551392405063666 652.5041732283464171 383.5248607594934924 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+176.7551392405063666 639.0041732283464171 Td
+(Use IAM policies to control access to your SNS topics and prevent unauthorized) Tj
+T* (access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 619.5041732283464171 131.7551392405063666 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 606.0041732283464171 Td
+(Enable VPC Endpoints) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+171.7551392405063666 619.5041732283464171 383.5248607594934924 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+176.7551392405063666 606.0041732283464171 Td
+(Use VPC Endpoints for SNS to allow your applications to send messages to SNS) Tj
+T* (over a private network.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 586.5041732283464171 131.7551392405063666 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 573.0041732283464171 Td
+(Enable SNS message) Tj
+T* (filtering) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+171.7551392405063666 586.5041732283464171 383.5248607594934924 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+176.7551392405063666 573.0041732283464171 Td
+(Use SNS message filtering to ensure that subscribers receive only the messages) Tj
+T* (they are interested in.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 553.5041732283464171 131.7551392405063666 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 540.0041732283464171 Td
+(Rotate access keys) Tj
+T* (regularly) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+171.7551392405063666 553.5041732283464171 383.5248607594934924 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+176.7551392405063666 540.0041732283464171 Td
+(Rotate SNS access keys regularly to reduce the risk of unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 520.5041732283464171 131.7551392405063666 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 507.0041732283464171 Td
+(Enable CloudTrail logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+171.7551392405063666 520.5041732283464171 383.5248607594934924 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+176.7551392405063666 507.0041732283464171 Td
+(Enable CloudTrail logging for SNS to monitor and audit API calls and detect) Tj
+T* (suspicious activity.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+49 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 50 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 7331
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - VPC) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 122.7089019089020212 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+162.7089019089020212 728.5041732283464171 392.5710980910978947 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+167.7089019089020212 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Create a VPC with) Tj
+T* (multiple subnets) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 707.0041732283464171 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 693.5041732283464171 Td
+(Design your VPC with multiple subnets spread across multiple Availability Zones to) Tj
+T* (ensure high availability and fault tolerance.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use Security Groups and) Tj
+T* (Network ACLs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 674.0041732283464171 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 660.5041732283464171 Td
+(Use Security Groups and Network ACLs to define inbound and outbound traffic rules) Tj
+T* (for your VPC resources, ensuring that only necessary traffic is allowed.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 122.7089019089020212 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Implement Private and) Tj
+T* (Public Subnets) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 641.0041732283464171 392.5710980910978947 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 627.5041732283464171 Td
+(Segregate resources within your VPC into private and public subnets based on their) Tj
+T* (exposure to the internet. Keep critical resources in private subnets with no direct) Tj
+T* (internet access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Use NAT Gateways for) Tj
+T* (outbound traffic) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 596.5041732283464171 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 583.0041732283464171 Td
+(Use NAT Gateways to allow instances in private subnets to access the internet while) Tj
+T* (still preventing inbound traffic from the internet.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Use VPC Flow Logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 563.5041732283464171 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 550.0041732283464171 Td
+(Enable VPC Flow Logs to capture information about the IP traffic going to and from) Tj
+T* (network interfaces in your VPC for monitoring and auditing purposes.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 530.5041732283465308 122.7089019089020212 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 517.0041732283464171 Td
+(Use VPC endpoints for) Tj
+T* (AWS services) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 530.5041732283465308 392.5710980910978947 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 517.0041732283464171 Td
+(Use VPC endpoints to privately connect your VPC to supported AWS services,) Tj
+T* (ensuring that traffic between your VPC and these services does not traverse the public) Tj
+T* (internet.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 486.0041732283464739 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 472.5041732283465308 Td
+(Implement proper routing) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 486.0041732283464739 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 472.5041732283465308 Td
+(Configure routing tables for each subnet in your VPC, ensuring that traffic is routed) Tj
+T* (only to intended destinations.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 453.0041732283465308 122.7089019089020212 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 439.5041732283465308 Td
+(Use VPN or Direct) Tj
+T* (Connect for hybrid) Tj
+T* (environments) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 453.0041732283465308 392.5710980910978947 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 439.5041732283465308 Td
+(If connecting your VPC to on-premises environments, use AWS VPN or Direct Connect) Tj
+T* (for secure and reliable connectivity.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 408.5041732283464739 122.7089019089020212 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 395.0041732283465308 Td
+(Periodically review) Tj
+T* (Security Groups and) Tj
+T* (Network ACLs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 408.5041732283464739 392.5710980910978947 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 395.0041732283465308 Td
+(Regularly review and update your Security Groups and Network ACLs to ensure that) Tj
+T* (they continue to meet your security requirements and follow the principle of least) Tj
+T* (privilege.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 364.0041732283464739 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 350.5041732283464739 Td
+(Encrypt sensitive data) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 364.0041732283464739 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 350.5041732283464739 Td
+(Encrypt sensitive data in transit and at rest when transmitted between your VPC and) Tj
+T* (other networks, or stored within your VPC.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 331.0041732283464739 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 317.5041732283465308 Td
+(Implement proper IAM) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 331.0041732283464739 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 317.5041732283465308 Td
+(Use IAM policies to control access to VPC resources and actions, ensuring that users) Tj
+T* (and applications have only the necessary permissions.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+51 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 4400
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon Lightsail) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 133.259552450193695 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+173.2595524501936666 728.5041732283464171 382.0204475498063061 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+178.2595524501936666 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 133.259552450193695 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use strong passwords and) Tj
+T* (multi-factor authentication) Tj
+T* (\(MFA\)) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2595524501936666 707.0041732283464171 382.0204475498063061 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2595524501936666 693.5041732283464171 Td
+(Using strong passwords and MFA helps prevent unauthorized access to your) Tj
+T* (Lightsail resources and data.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 133.259552450193695 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Encrypt data in transit and) Tj
+T* (at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2595524501936666 662.5041732283464171 382.0204475498063061 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2595524501936666 649.0041732283464171 Td
+(Encrypting data in transit and at rest helps protect sensitive information from) Tj
+T* (interception and unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 133.259552450193695 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Limit network access to) Tj
+T* (Lightsail resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2595524501936666 629.5041732283464171 382.0204475498063061 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2595524501936666 616.0041732283464171 Td
+(Limiting network access helps prevent unauthorized access and limits the impact of) Tj
+T* (security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 133.259552450193695 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Enable backups and) Tj
+T* (snapshots) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2595524501936666 596.5041732283464171 382.0204475498063061 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2595524501936666 583.0041732283464171 Td
+(Backups and snapshots enable you to recover your data and restore your instances) Tj
+T* (to a previous state in case of data loss or security incidents.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 133.259552450193695 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Regularly update your) Tj
+T* (Lightsail instances and their) Tj
+T* (software) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2595524501936666 563.5041732283464171 382.0204475498063061 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2595524501936666 550.0041732283464171 Td
+(Regularly updating your Lightsail instances and their software helps ensure that) Tj
+T* (security vulnerabilities are addressed and that you are using the latest features and) Tj
+T* (functionality.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 519.0041732283464171 133.259552450193695 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 505.5041732283464739 Td
+(Enable logging and) Tj
+T* (monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+173.2595524501936666 519.0041732283464171 382.0204475498063061 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+178.2595524501936666 505.5041732283464739 Td
+(Logging and monitoring enable you to detect and respond to security incidents and) Tj
+T* (other issues affecting your Lightsail instances.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+53 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 54 0 R
+>>
+endobj
+54 0 obj
+<<
+/Length 7473
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - AWS Outposts) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 92.6206022187005829 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+132.6206022187005829 728.5041732283464171 422.6593977812993899 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+137.6206022187005544 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 92.6206022187005829 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Isolate resources) Tj
+T* (in VPCs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 707.0041732283464171 422.6593977812993899 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 693.5041732283464171 Td
+(Isolating your resources in Virtual Private Clouds \(VPCs\) helps to prevent unauthorized) Tj
+T* (access to your AWS Outposts resources.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 92.6206022187005829 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Encrypt data in) Tj
+T* (transit and at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 674.0041732283464171 422.6593977812993899 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 660.5041732283464171 Td
+(Encrypting data in transit and at rest helps protect sensitive information from interception and) Tj
+T* (unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 92.6206022187005829 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Limit access to) Tj
+T* (Outposts) Tj
+T* (resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 641.0041732283464171 422.6593977812993899 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 627.5041732283464171 Td
+(Limiting access to your AWS Outposts resources helps prevent unauthorized access and) Tj
+T* (limits the impact of security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 92.6206022187005829 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Enable logging) Tj
+T* (and monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 596.5041732283464171 422.6593977812993899 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 583.0041732283464171 Td
+(Logging and monitoring enable you to detect and respond to security incidents and other) Tj
+T* (issues affecting your AWS Outposts environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 92.6206022187005829 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Regularly update) Tj
+T* (your Outposts) Tj
+T* (resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 563.5041732283464171 422.6593977812993899 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 550.0041732283464171 Td
+(Regularly updating your Outposts resources helps ensure that security vulnerabilities are) Tj
+T* (addressed and that you are using the latest features and functionality.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 519.0041732283464171 92.6206022187005829 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 505.5041732283464739 Td
+(Implement) Tj
+T* (function-level) Tj
+T* (access control) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 519.0041732283464171 422.6593977812993899 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 505.5041732283464739 Td
+(Use AWS Identity and Access Management \(IAM\) policies to control access to your Outposts) Tj
+T* (resources. Restrict access to only the actions and resources that are necessary for the) Tj
+T* (resource to perform its intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 474.5041732283464739 92.6206022187005829 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 461.0041732283465308 Td
+(Implement secure) Tj
+T* (deployment) Tj
+T* (practices) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 474.5041732283464739 422.6593977812993899 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 461.0041732283465308 Td
+(Implementing secure deployment practices helps ensure that your Outposts resources are) Tj
+T* (deployed securely and that your applications are not vulnerable to security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 430.0041732283464739 92.6206022187005829 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 416.5041732283464739 Td
+(Implement backup) Tj
+T* (and disaster) Tj
+T* (recovery plans) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 430.0041732283464739 422.6593977812993899 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 416.5041732283464739 Td
+(Implementing backup and disaster recovery plans helps ensure that your Outposts resources) Tj
+T* (are available and functional during a security breach or other disaster.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 385.5041732283464171 92.6206022187005829 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 372.0041732283464739 Td
+(Implement least) Tj
+T* (privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 385.5041732283464171 422.6593977812993899 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 372.0041732283464739 Td
+(Implementing least privilege access helps ensure that users and applications have only the) Tj
+T* (minimum privileges necessary to perform their intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 352.5041732283464739 92.6206022187005829 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 339.0041732283464739 Td
+(Implement security) Tj
+T* (controls for data at) Tj
+T* (rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 352.5041732283464739 422.6593977812993899 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 339.0041732283464739 Td
+(Implementing security controls for data at rest helps ensure that sensitive information is) Tj
+T* (protected from unauthorized access or disclosure.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 308.0041732283464171 92.6206022187005829 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 294.5041732283464171 Td
+(Regularly review) Tj
+T* (and audit security) Tj
+T* (controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+132.6206022187005829 308.0041732283464171 422.6593977812993899 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+137.6206022187005544 294.5041732283464171 Td
+(Regularly reviewing and auditing security controls helps ensure that your Outposts resources) Tj
+T* (are secure and compliant with your security policies.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R ]
+/Count 26
+>>
+endobj
+55 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+56 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+57 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+58 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+59 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+60 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+61 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+62 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+63 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+64 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+65 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+66 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+67 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+68 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 55 0 R
+/F2 56 0 R
+/F3 57 0 R
+/F4 58 0 R
+/F5 59 0 R
+/F6 60 0 R
+/F7 61 0 R
+/F8 62 0 R
+/F9 63 0 R
+/F10 64 0 R
+/F11 65 0 R
+/F12 66 0 R
+/F13 67 0 R
+/F14 68 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+69 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230330135645+05'30')
+>>
+endobj
+70 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 71
+0000000000 65535 f 
+0000156936 00000 n 
+0000158931 00000 n 
+0000000015 00000 n 
+0000000351 00000 n 
+0000005507 00000 n 
+0000005843 00000 n 
+0000009712 00000 n 
+0000010048 00000 n 
+0000013925 00000 n 
+0000014262 00000 n 
+0000020279 00000 n 
+0000020617 00000 n 
+0000026800 00000 n 
+0000027138 00000 n 
+0000033194 00000 n 
+0000033532 00000 n 
+0000039002 00000 n 
+0000039340 00000 n 
+0000044774 00000 n 
+0000045112 00000 n 
+0000049040 00000 n 
+0000049378 00000 n 
+0000053292 00000 n 
+0000053630 00000 n 
+0000058320 00000 n 
+0000058658 00000 n 
+0000062500 00000 n 
+0000062838 00000 n 
+0000068099 00000 n 
+0000068437 00000 n 
+0000072329 00000 n 
+0000072667 00000 n 
+0000082105 00000 n 
+0000082443 00000 n 
+0000087103 00000 n 
+0000087441 00000 n 
+0000092013 00000 n 
+0000092351 00000 n 
+0000099482 00000 n 
+0000099820 00000 n 
+0000105599 00000 n 
+0000105937 00000 n 
+0000113976 00000 n 
+0000114314 00000 n 
+0000121822 00000 n 
+0000122160 00000 n 
+0000131662 00000 n 
+0000132000 00000 n 
+0000136559 00000 n 
+0000136897 00000 n 
+0000144281 00000 n 
+0000144619 00000 n 
+0000149072 00000 n 
+0000149410 00000 n 
+0000157166 00000 n 
+0000157292 00000 n 
+0000157423 00000 n 
+0000157557 00000 n 
+0000157695 00000 n 
+0000157819 00000 n 
+0000157948 00000 n 
+0000158080 00000 n 
+0000158216 00000 n 
+0000158344 00000 n 
+0000158471 00000 n 
+0000158600 00000 n 
+0000158733 00000 n 
+0000158835 00000 n 
+0000159184 00000 n 
+0000159270 00000 n 
+trailer
+<<
+/Size 71
+/Root 70 0 R
+/Info 69 0 R
+/ID [ <9F03201FDC9D3F378DCAAB83024D18A4> <9F03201FDC9D3F378DCAAB83024D18A4> ]
+>>
+startxref
+159374
+%%EOF
