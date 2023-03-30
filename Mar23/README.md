@@ -53,3 +53,8 @@
 - Presented on how to setup monitoring on a brand new k8s cluster & how to relate terraform with OOPs based languages..
 - Eg: `resource "helm_release" "my_prometheus" {}` can be treated analogical to `datatype "provider from terraform registry" "variable_name"`
 - Resolved Infra deployment issue for alert manager & rules-config..
+
+### 30 March 2023:
+- Learnt more about Auth service we internally use 
+- Taught a colleague how to unlock terraform plans, explored more about how the lock state info is maintained in dynamodb & how internally `tf -force-unlock plan lock-id` works
+- Discovered this simplistic yet interactive web page of AWS Security Checklist: https://awscheck.fyi/ If you wanna download complete pdf, click [here](https://github.com/AasthaMehtaTech/TechLogs/blob/main/Content/aws_security_checklist_report%20(1).pdf)
