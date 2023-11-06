@@ -29,3 +29,14 @@ This involved with me starting to learn what is instrumentation & significance o
 
 ### 3 Nov 2023:
 - Metrics on my head | Planning to dig deeper into MountPoint labels, ideas for reducing load on Prometheus by identifying, topmost resource consuming vs evaluating it's real rrequirement. (Analyzing on the Function of various metrics' usability & corresponding resource consumption cost)
+
+### 6 Nov 2023:
+- Diving into PromQL again after a long time! Revisiting it, refreshing the memory of metric type: scalar, vector, strings
+- Articles referred:
+  - https://<prometheus-url:9090>/api/v1/status/tsdb
+  - https://prometheus.io/docs/prometheus/latest/querying/api/#tsdb-stats
+  - https://stackoverflow.com/questions/53205590/prometheus-show-top-metrics-filtered-by-number-of-labels
+  - https://www.infracloud.io/blogs/promql-prometheus-guide/#what-is-prometheus-query-language-promql
+  - https://www.airplane.dev/blog/promql-cheat-sheet-with-examples
+- Learnt to cater to wider audience, how to Simplify explaining complex concepts like app configs to serve abstract idea of having customer to change least amount of app code in codebase, such that the shared content becomes relevant to all
+
