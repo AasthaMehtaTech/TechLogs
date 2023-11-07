@@ -31,12 +31,17 @@ This involved with me starting to learn what is instrumentation & significance o
 - Metrics on my head | Planning to dig deeper into MountPoint labels, ideas for reducing load on Prometheus by identifying, topmost resource consuming vs evaluating it's real rrequirement. (Analyzing on the Function of various metrics' usability & corresponding resource consumption cost)
 
 ### 6 Nov 2023:
-- Diving into PromQL again after a long time! Revisiting it, refreshing the memory of metric type: scalar, vector, strings
-- Articles referred:
-  - https://<prometheus-url:9090>/api/v1/status/tsdb
-  - https://prometheus.io/docs/prometheus/latest/querying/api/#tsdb-stats
+- Diving into PromQL again after a long time! Revisiting it, refreshing the memory of metric type: scalar, vector, strings [here](https://www.infracloud.io/blogs/promql-prometheus-guide/#what-is-prometheus-query-language-promql)
+- Other Prom Metrics exploring Articles referred:
+  - https://<prometheus-url:9090>/api/v1/status/tsdb : analysis of seriesCountByMetricName, labelValueCountByLabelName, memoryInBytesByLabelName, seriesCountByLabelValuePair : https://prometheus.io/docs/prometheus/latest/querying/api/#tsdb-stats
   - https://stackoverflow.com/questions/53205590/prometheus-show-top-metrics-filtered-by-number-of-labels
-  - https://www.infracloud.io/blogs/promql-prometheus-guide/#what-is-prometheus-query-language-promql
-  - https://www.airplane.dev/blog/promql-cheat-sheet-with-examples
+  - https://www.airplane.dev/blog/promql-cheat-sheet-with-examples : scenarios of mocking timeouts/ crashloops/ etc pod states
 - Learnt to cater to wider audience, how to Simplify explaining complex concepts like app configs to serve abstract idea of having customer to change least amount of app code in codebase, such that the shared content becomes relevant to all
+
+### 7 Nov 2023:
+- Investigated into issue of API gateways failing due to signature mismatch when called through service-discovery
+- Prom cardinality exploration:
+  - https://source.coveo.com/2021/03/03/prometheus-memory/ : avoid high memory consumption by droppping frequent but unused labels
+  - https://last9.io/blog/how-to-manage-high-cardinality-metrics-in-prometheus/, https://medium.com/@dotdc/prometheus-performance-and-cardinality-in-practice-74d5d9cd6230, https://www.robustperception.io/why-does-prometheus-use-so-much-ram/
+- Rescoped Prom Memory Reduction Spike (to first make the RED metrics available on dashboards by getting back necessary istio metrics) 
 
