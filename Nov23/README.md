@@ -42,6 +42,17 @@ This involved with me starting to learn what is instrumentation & significance o
 - Investigated into issue of API gateways failing due to signature mismatch when called through service-discovery
 - Prom cardinality exploration:
   - https://source.coveo.com/2021/03/03/prometheus-memory/ : avoid high memory consumption by droppping frequent but unused labels
-  - https://last9.io/blog/how-to-manage-high-cardinality-metrics-in-prometheus/, https://medium.com/@dotdc/prometheus-performance-and-cardinality-in-practice-74d5d9cd6230, https://www.robustperception.io/why-does-prometheus-use-so-much-ram/
-- Rescoped Prom Memory Reduction Spike (to first make the RED metrics available on dashboards by getting back necessary istio metrics) 
+  - https://last9.io/blog/how-to-manage-high-cardinality-metrics-in-prometheus/
+  - https://medium.com/@dotdc/prometheus-performance-and-cardinality-in-practice-74d5d9cd6230
+  - https://www.robustperception.io/why-does-prometheus-use-so-much-ram/
+  - https://grafana.com/blog/2022/03/21/how-relabeling-in-prometheus-works/
+- Rescoped Prom Memory Reduction Spike (to first make the RED metrics available on dashboards by getting back necessary istio metrics)
+- `relabel_configs vs metric_relabel_configs` (relabel_config happens before the scrape, metric_relabel_configs happens after the scrape). Prometheus needs to know what to scrape, and that's where service discovery and relabel_configs come in. Relabel configs allow you to select which targets you want scraped, and what the target labels will be. metric_relabel_configs by contrast are applied after the scrape has happened, but before the data is ingested by the storage system. So if there are some expensive metrics you want to drop, or labels coming from the scrape itself (e.g. from the /metrics page) that you want to manipulate that's where  metric_relabel_configs applies.
+- _Interesting engg (observability) blogs_ : https://grafana.com/categories/engineering/
+- Debugging lambda logging layer causing tenant apis to fail when data-mesh store called via service discovery: After n number of trial & errors were able to atleast reduce most errors by removing the await so that the log export to ES happens async in background, & now the error occurs only while cold start. Then to debug further, the enabled the debug layer logs via env_var (feels so good, I had added this feature while building it) & then releasing some more chnages in layer tested what exactly is causing the the customError 400/500s in lambdas. Also, due to extension retrying to register itself & lambda abruptly ending, had observed many downstream propagating issues like multiple log groups for a same timestamp.
+
+### 8 Nov 2023:
+- Continuing on lambda logs issue today, found the AWS Signature Mismatch could also be due to Time Disparities in DynamoClient calls passed via svc-discovery & even the version mismatch of aws-sdk in lambdas & layers (as both would get loaded in the same node_modules). That made me remember the struggle of placing node_modules correctly, specified way of in-nodejs folder for extensions & directly node_modules for layers, plus how I had struggled to figure out that the extensionid/name should be same as folder name & the init script name. Topic for another day tho.
+
+
 
