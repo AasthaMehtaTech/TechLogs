@@ -54,5 +54,15 @@ This involved with me starting to learn what is instrumentation & significance o
 ### 8 Nov 2023:
 - Continuing on lambda logs issue today, found the AWS Signature Mismatch could also be due to Time Disparities in DynamoClient calls passed via svc-discovery & even the version mismatch of aws-sdk in lambdas & layers (as both would get loaded in the same node_modules). That made me remember the struggle of placing node_modules correctly, specified way of in-nodejs folder for extensions & directly node_modules for layers, plus how I had struggled to figure out that the extensionid/name should be same as folder name & the init script name. Topic for another day tho.
 
+### 20th Nov 2023:
+- Wooof, Mondaying through Monday after a long Diwali time-off
+- Catchups | Re-prioritizing 
+- Deploying Dynamic Inventory App : Demo-data replication through scripts & DBT, peak-sdk deployment pre-requisites go-through 
+
+### 21st Nov 2023:
+- Workflows Env Var addition task (Discovery Phase) : developing understanding of workflow service, it's infra provisioning through Argo & customized templates generated for it, local running (next), it's deployment steps
+- Resolving DBT issues for Inv-App : Snowflake queries | Joins exploration
+- Fixing slack channel secrets for alert routing
+
 
 
