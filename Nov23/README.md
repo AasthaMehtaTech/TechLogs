@@ -64,5 +64,7 @@ This involved with me starting to learn what is instrumentation & significance o
 - Resolving DBT issues for Inv-App : Snowflake queries | Joins exploration
 - Fixing slack channel secrets for alert routing
 
-
+### 22nd - 28th Nov 2023:
+- Workflow Env Vars PR, Comments, Apps & Blocks Deployment
+- Enablement/Intro presentation for App logging pkg released as a part of peak-sdk
 
