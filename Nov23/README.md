@@ -65,6 +65,37 @@ This involved with me starting to learn what is instrumentation & significance o
 - Fixing slack channel secrets for alert routing
 
 ### 22nd - 28th Nov 2023:
-- Workflow Env Vars PR, Comments, Apps & Blocks Deployment
+- Workflow Env Vars PR, Understanding Argo, Discussions around robust naming of ENV_VARS used by system so as to not get them overwritten by users, Apps & Blocks Deployment
 - Enablement/Intro presentation for App logging pkg released as a part of peak-sdk
+
+# 29Nov - 1st Dec 2023:
+- Past few days have contributed a lot in terms of developing understanding around few topics, which include:
+  - Prometheus Memory Optimization: Exploring it's heap memory profile through `go `pprof` & such tools
+  - Revisiting PromQL for finding all the metrics that contain mountpoint label: `count({__name__=~".*",mountpoint=~".+"}) by (__name__)` , to learn which job needs the metric dropping logic: `count({__name__=~".*",id=~".+"}) by (__name__, job)`, https://<prometheusurl>/graph?g0.expr=container_memory_usage_bytes%7Bpod%3D%22prometheus-server-0%22%2Ccontainer!~%22.%2B%22%2Cimage!~%22.%2B%22%7D&g0.tab=0&g0.stacked=0&g0.show_exemplars=0&g0.range_input=2h, https://stackoverflow.com/questions/74339537/how-to-see-via-pprof-web-what-exactly-in-my-funcs-produced-allocs
+  - Cool articles: https://stackoverflow.com/questions/56115912/why-does-prometheus-consume-so-much-memory, https://www.robustperception.io/how-much-ram-does-prometheus-2-x-need-for-cardinality-and-ingestion/ , 
+- Fluentbit not able export logs to es issue: On debug came to know of index limits exceeded, needed to figure out better ILM strategies & even the namings/ roll-ups; through which came to know abt ES config of hot, warm, cold log phases along with using it's APIs through DevTools (Eg: For temp Clearing of last 2 months data (GET _cat/indices/*-2023-09*), the `DELETE *-2023-10*` didn't work so used this first to temporarily allow it: `PUT /_cluster/settings
+{
+  "transient": {
+	"action.destructive_requires_name":true
+
+  }
+}`)
+- URLs: https://www.elastic.co/blog/implementing-hot-warm-cold-in-elasticsearch-with-index-lifecycle-management, https://opster.com/guides/elasticsearch/best-practices/elasticsearch-misuse-of-wildcards/, https://stackoverflow.com/questions/54535171/elasticsearch-query-on-indexes-whose-name-is-matching-a-certain-pattern
+- The tracing pkg error pop-ups again:
+  - https://stackoverflow.com/questions/61995669/aws-log-insights-query-with-string-contains, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.html, https://stackoverflow.com/questions/73244772/how-to-sign-post-request-with-aws-signature-version-4, https://github.com/aws/aws-sdk-js/issues/527
+  - Found out Amazon Q pretty effective:
+```
+This error indicates that the request signature does not match what AWS is expecting. A few things could cause this:
+The signing credentials (access key and secret key) do not match what AWS has on record. Make sure the credentials being used to sign the request are valid.
+The signing method is not AWS Signature Version 4. Lambda requires requests to be signed with SigV4.
+The signing date is too far in the past. SigV4 signatures expire after 5 minutes. Check that the system clock is in sync and the date used in signing is close to the current time.
+Required signed headers are missing from the signed request. With SigV4, certain headers like Hostand X-Amz-Date must be included in the SignedHeaders parameter.
+The signature itself was calculated incorrectly. Make sure to follow the SigV4 signing process precisely as detailed in the AWS documentation.
+To troubleshoot further, check the request signature that was generated against what AWS calculates based on the request. Tools like the AWS CLI can help generate a test signature for comparison.
+Sources
+[1] How can I resolve the error "native lambda error:InvalidSignatureException: Signature expired" when invoking a Lambda function using an AWS SDK?
+[2] Elements of an AWS API request signature - AWS Identity and Access Management
+[3] InvalidSignatureException while Invoking a Lambda via API Gateway
+```
+
 
