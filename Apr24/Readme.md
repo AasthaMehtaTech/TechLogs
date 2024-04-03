@@ -2,10 +2,7 @@
 
 An attempt to revive TechLogs ( ❛ ͜ʖ ❛ )
 
-#### Tech Stories & Learnings
-- 
-
-#### WIP [List/ Place holders for stories I plan to write about]
+#### Tech Stories & Learnings (Placeholder List)
 
 - `Migrations & Major Refactors`
   - How I converted a JS pkg to TS, & what issues I faced (node-logger)
@@ -17,9 +14,12 @@ An attempt to revive TechLogs ( ❛ ͜ʖ ❛ )
   - Creating a Python11 Docker Image for workspace & other custom image creation experiments (CloudBeaver Workspaces)
 
 - `Lambda Layers & Observabilty`
-  - Logging Layer: Async batch Export to Elastic (handling freq / on start / on exit force shipping)
+  - Logging Layer:
+    - Async batch Export to Elastic (handling freq / on start / on exit force shipping)
+    - telemetry/logs API & extensions
   - Tracing Layer: Reusing pkg (Sending traces to central Otel Collector deployed)
   - Git Layer version Tracking for auto-updates for multiple services whenever redeployed
+  - Layer deployments through TF, Serverless Learnings
 
 - `Standardizing Logs & Traces Format across the platform (pkg reuse for k8s services, lambdas, python apps)`
   - Format & Enrich logs to capture user/ session/ tenant info automatically
@@ -46,11 +46,14 @@ An attempt to revive TechLogs ( ❛ ͜ʖ ❛ )
   - Kafka monitoring, retries, client enhancements
   - Discovery/mesh
  
-- `Good Practices`
-  - DX feedbacks/ efficiencies/ study
+- `Good Practices & Developer Experience Spikes`
+  - DX feedbacks/ efficiencies study
   - Experimenting self-hosted AI tools for Codegen v/s subscribing Co-pilot, ChatGPT | Cost Tradeoff reports
   - Streamlining onboarding by standardizing & making bootstrap install scripts for 1 time setup idempotent
   - IDP: Backstage maintenance
+  - Auto-config & Documenation Generation, Overriding Capabilities using Pydantic for Annotated Classes for Python Applications
 
 - `RBAC`
   - Nested Feature Defining & Fine-tuned RBAC enhancements
+
+
