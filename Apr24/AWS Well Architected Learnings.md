@@ -16,10 +16,11 @@
     - [Automating Best Practices](https://aws.amazon.com/blogs/apn/automating-best-practices-with-nops-and-the-aws-well-architected-framework/) | nOps
     - Others like: [Cost Optimization in SaaS](https://aws.amazon.com/blogs/apn/optimizing-the-cost-of-your-saas-environment-with-the-aws-well-architected-saas-lens/), [Infra auto-remediation](https://aws.amazon.com/blogs/apn/infrastructure-auto-remediation-on-aws-with-6pillars-and-aws-well-architected-integration/), [WA for Customer reviews](https://aws.amazon.com/blogs/apn/7-tips-for-aws-consulting-partners-conducting-well-architected-reviews-for-customers/), [Tevico](https://aws.amazon.com/blogs/apn/aws-well-architected-framework-reviews-powered-by-tevico-transforming-challenges-into-engaging-adventures/)
   - **[6 Pillars](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)** of WA Framework (for stable and efficient systems):
-      - [Whitepaper links for each pillar](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework/)
+      - [Consolidated](https://aws.amazon.com/blogs/apn/the-6-pillars-of-the-aws-well-architected-framework/) (with Whitepaper links for each pillar)
       - Operational excellence
       - Security
       - Reliability
       - Performance efficiency
       - Cost optimization
       - Sustainability
+      - **Tradeoff**: When architecting workloads, you make trade-offs between pillars based on your business context. These business decisions can drive your engineering priorities. You might optimize to improve sustainability impact and reduce cost at the expense of reliability in development environments, or, for mission-critical solutions, you might optimize reliability with increased costs and sustainability impact. In ecommerce solutions, performance can affect revenue and customer propensity to buy. Security and operational excellence are generally not traded-off against the other pillars.
